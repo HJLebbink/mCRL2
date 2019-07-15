@@ -3,3 +3,4 @@ build/SourceVersion
 
 # Compiled byte-code for Python.
 *.pyc
+/ninja/**
